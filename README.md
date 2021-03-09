@@ -1,4 +1,4 @@
-# ThighCLi
+# ThighCli
 
 创建模板项目命令行工具
 

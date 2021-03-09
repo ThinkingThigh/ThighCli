@@ -1,0 +1,24 @@
+{
+  "name": "thigh-cli",
+  "version": "1.0.0",
+  "description": "创建模板项目命令行工具",
+  "main": "index.js",
+  "bin": {
+    "thigh-cli": "./index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:ThinkingThigh/ThighCli.git"
+  },
+  "keywords": [],
+  "author": "thinkingthigh",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^5.1.0",
+    "inquirer": "^7.2.0",
+    "shelljs": "^0.8.4"
+  }
+}

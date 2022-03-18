@@ -18,7 +18,7 @@ const initAction = () => {
         type: "list",
         message: "请选择项目类型:",
         name: "type",
-        choices: ["vue-pc", "vue-mobile", "react-pc", "react-mobile"],
+        choices: ["fe-h5-template", "fe-pc-template"],
       },
     ])
     .then((answer) => {
